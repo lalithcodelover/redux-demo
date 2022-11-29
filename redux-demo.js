@@ -12,6 +12,7 @@ const counterReducer= (state={counter:0},action)=>{
                 counter:state.counter-1
             }
         }
+        
     
 }
 
